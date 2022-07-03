@@ -1,0 +1,44 @@
+[
+	{
+		"employee": {
+			"firstName": "Lokesh",
+			"lastName": "Gupta",
+			"website": "howtodoinjava.com"
+		}
+	},
+	{
+		"employee": {
+			"firstName": "Brian",
+			"lastName": "Schultz",
+			"website": "example.com"
+		}
+	},
+	{
+		"employee": {
+			"firstName": "Aman",
+			"lastName": "Gupta",
+			"website": "aman.gupta"
+		}
+	},
+	{
+		"employee": {
+			"firstName": "Ashneer",
+			"lastName": "Grover",
+			"website": "ashneer.grover"
+		}
+	},
+	{
+		"employee": {
+			"firstName": "piyush",
+			"lastName": "Bansal",
+			"website": "piyush.bansal"
+		}
+	},
+	{
+		"employee": {
+			"firstName": "anupam",
+			"lastName": "mittal",
+			"website": "anupam.mittal"
+		}
+	}
+]
